@@ -27,11 +27,14 @@ Temario del repositorio 👨‍💻
 
 
 
-3. :
+3. Posicionamiento de los elementos:
+- Cómo quitar los estilos que el navegador crea automáticamente. 
+- Cómo funcionan los posicionamientos static, relative y absolute de los elementos. 
+- Cómo posicionar el encabezado de nuestra página.
 
 
 
-4. :
+4. Listas con productos:
 
 
 
