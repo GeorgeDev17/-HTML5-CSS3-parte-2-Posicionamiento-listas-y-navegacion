@@ -2,5 +2,8 @@
     "cSpell.words": [
         "Alura",
         "mision"
+    ],
+    "cSpell.ignoreWords": [
+        "descripcion"
     ]
 }
